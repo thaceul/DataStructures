@@ -1,0 +1,9 @@
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\b\DataStructuresUnitTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\b\DataStructuresUnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\b\DataStructuresUnitTests\bin\Debug\nunit.engine.dll
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\b\DataStructuresUnitTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\b\DataStructuresUnitTests\bin\Debug\Mono.Cecil.dll
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\b\DataStructuresUnitTests\bin\Debug\DataStructuresUnitTests.dll
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\i\DataStructuresUnitTests\Debug\DataStructuresUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\i\DataStructuresUnitTests\Debug\DataStructuresUnitTests.csproj.CopyComplete
+C:\Users\Thaceu\Downloads\DataStructures\DataStructures\.vs\Data Structures\lut\0\i\DataStructuresUnitTests\Debug\DataStructuresUnitTests.dll

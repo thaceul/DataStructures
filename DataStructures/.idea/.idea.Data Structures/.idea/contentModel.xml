@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Data Structures.1017549598.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Data Structures" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BinaryTree.cs" t="Include" />
+        <e p="Data Structures.csproj" t="IncludeRecursive" />
+        <e p="LinkedList.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Data Structures.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Data Structures.sln" t="IncludeFlat" />
+      <e p="DataStructuresTests/DataStructuresTests.csproj" t="IncludeRecursive" />
+      <e p="DataStructuresUnitTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BinaryTreeTests.cs" t="Include" />
+        <e p="DataStructuresUnitTests.csproj" t="IncludeRecursive" />
+        <e p="LinkedListTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/Mono.Cecil.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/nunit.engine.api.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/nunit.engine.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/NUnit3.TestAdapter.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/NUnit3.TestAdapter.pdb" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
